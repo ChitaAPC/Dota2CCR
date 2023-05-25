@@ -18,8 +18,11 @@ The remaining columns (from 3 onwards) can then be used as it is for a single he
 
 ## Cite this work
 For in-text citations you sould use: `todo`
+
 Bibliography: 
-`todo`
+```
+todo
+```
 
 Bibtex:
 ```
