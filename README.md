@@ -1,6 +1,6 @@
 # Beyond the Meta: Leveraging Game Design Parameters for Patch-Agnostic Esport Analitics
 
-This git repository contains the resources described in the paper available soon. For more information, please check back at a later date when the paper becomes available.
+This git repository contains the resources described in the paper available [here](https://arxiv.org/abs/2305.18477).
 These resources aim at enabling future research within Dota 2 to be patch-agnostic by including contextual information about several (or at least the current).
 This can be achieved by utilising the clustered heroes representation instead of Character IDs or other forms of character representation.
 
@@ -31,20 +31,26 @@ While we don’t expect that will happen in the near future, it is entirely up t
 We will make it clear if that happens, so check this page for information when a new patch is available.
 
 ## Cite this work
-This work is in the process of being added to arXiv.
-Instructions for citation will be added once the paper is available.
+This work is currrently available in arXiv.
+If the paper passes through a peer review process, updated citation instructions will be made available here.
+For now, it can be cited with the following:
 
 
-For in-text citations you sould use: `tba`
+For in-text citations you sould use: `(Chitayat et al., 2023)`
 
 Bibliography: 
 ```
-tba
+Chitayat, A. P., Block, F., Walker, J., & Drachen, A. (2023). Beyond the meta: Leveraging game design parameters for patch-agnostic esport analytics.
 ```
 
 Bibtex:
 ```
-tba{
-
+@misc{chitayat2023meta,
+      title={Beyond the Meta: Leveraging Game Design Parameters for Patch-Agnostic Esport Analytics}, 
+      author={Alan Pedrassoli Chitayat and Florian Block and James Walker and Anders Drachen},
+      year={2023},
+      eprint={2305.18477},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
