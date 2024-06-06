@@ -1,6 +1,6 @@
 # Beyond the Meta: Leveraging Game Design Parameters for Patch-Agnostic Esport Analitics
 
-This git repository contains the resources described in the paper available [here](https://arxiv.org/abs/2305.18477).
+This git repository contains the resources described in the paper available [here](https://ojs.aaai.org/index.php/AIIDE/article/view/27507).
 These resources aim at enabling future research within Dota 2 to be patch-agnostic by including contextual information about several (or at least the current).
 This can be achieved by utilising the clustered heroes representation instead of Character IDs or other forms of character representation.
 
@@ -31,26 +31,29 @@ While we don’t expect that will happen in the near future, it is entirely up t
 We will make it clear if that happens, so check this page for information when a new patch is available.
 
 ## Cite this work
-This work is currrently available in arXiv.
-If the paper passes through a peer review process, updated citation instructions will be made available here.
-For now, it can be cited with the following:
+This work takes part of a research paper that has been published in AIIDE 2023. 
+Therefore the publication can be cited in relation to this work with the following:
 
 
-For in-text citations you sould use: `(Chitayat et al., 2023)`
+For in-text citations you sould use: `(Pedrassoli Chitayat et al., 2023)`
 
 Bibliography: 
 ```
-Chitayat, A. P., Block, F., Walker, J., & Drachen, A. (2023). Beyond the meta: Leveraging game design parameters for patch-agnostic esport analytics.
+Pedrassoli Chitayat, A., Block, F., Walker, J., & Drachen, A. (2023). Beyond the Meta: Leveraging Game Design Parameters for Patch-Agnostic Esport Analitics. Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 19(1), 116-125. https://doi.org/10.1609/aiide.v19i1.27507
 ```
 
 Bibtex:
 ```
-@misc{chitayat2023meta,
-      title={Beyond the Meta: Leveraging Game Design Parameters for Patch-Agnostic Esport Analytics}, 
-      author={Alan Pedrassoli Chitayat and Florian Block and James Walker and Anders Drachen},
-      year={2023},
-      eprint={2305.18477},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{pedrassolichitayat2023meta, 
+	title={Beyond the Meta: Leveraging Game Design Parameters for Patch-Agnostic Esport Analitics}, 
+	volume={19}, 
+	url={https://ojs.aaai.org/index.php/AIIDE/article/view/27507}, 
+	DOI={10.1609/aiide.v19i1.27507}, 
+	number={1}, 
+	journal={Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment}, 
+	author={Pedrassoli Chitayat, Alan and Block, Florian and Walker, James and Drachen, Anders}, 
+	year={2023}, 
+	month={Oct.}, 
+	pages={116-125} 
 }
 ```
